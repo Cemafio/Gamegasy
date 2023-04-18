@@ -79,9 +79,7 @@ var  ctx= canvas.getContext("2d");
     ctx.moveTo(0,120)
     ctx.lineTo(300,120);
     ctx.stroke()
-//cienquieme ligne
-    // 
-        // ctx.moveTo(250,0)
-    // ctx.lineTo(250,300);
-    // ctx.stroke()
+    
+//Tracage d'un cercle
+    
 
